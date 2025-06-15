@@ -1,2 +1,2 @@
-# HW1_Smetanina
+# HW_Smetanina
 
